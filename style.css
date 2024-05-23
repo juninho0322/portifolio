@@ -1,0 +1,7 @@
+#pic-border-1 {
+  z-index: 1 !important;
+}
+
+#pic-border-2 {
+  z-index: -1 !important;
+}
